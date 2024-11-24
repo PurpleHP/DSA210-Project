@@ -1,6 +1,7 @@
 # DSA210-Project
 
-## Recording of daily footsteps. (might change if I find any better data even though this is fine)
+## Recording of daily footsteps.
 ## Data is provided by Huawei Health App in my phone.
 
 # Website: https://www.merttaylan.dev/DSA210
+
