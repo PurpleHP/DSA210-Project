@@ -1,16 +1,16 @@
 # DSA210-Project: Step-Count Analysis
 
 ## Motivation
-As a Junior CS student I don't know what grass looks like. So in this project I'm aiming to understand my behaviours.
-This project is an attempt to change that. By analyzing my step count data, I aim to understand my behavior and identify patterns in my physical activity. 
+As a Junior CS student I started to forget what grass looked like.
+So this project is an attempt to change that. By analyzing my step count data, I aim to understand my behavior and identify patterns in my physical activity.
 
 Some key questions I want to explore include:
 - What motivates me to walk more?
-- Which days am I more active?
+- Which days / seasons am I more active?
 - Is school the main driver of my activity levels?
 - How do my step counts differ between weekdays and weekends?
 
-Through this analysis, I hope to gain insights into my lifestyle
+Through this analysis, I hope to gain insights into my lifestyle more.
 
 ## Data Source
 The dataset consists of step count records collected from my Huawei device (from Huawei Health App between 07/08/2019 to 15/11/2024). The data was obtained through Huawei’s official data request service, where I manually requested a copy of my personal data. Huawei provided the data in a large zip file containing minute-by-minute step count logs. I processed and combined this data into a daily step count dataset for easier analysis.
@@ -28,4 +28,5 @@ The main objective of this project is to analyze my step count data to uncover p
 - Analyzing whether school or other external factors influence my activity levels.
 - Comparing activity levels between weekdays and weekends to understand behavioral differences.
 
+Here is my data visualized:
 ![image](https://github.com/user-attachments/assets/76c72f54-d87c-485b-a0e6-b88ab931d239)
