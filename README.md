@@ -4,11 +4,13 @@
 As a Junior CS student I started to forget what grass looked like.
 So this project is an attempt to change that. By analyzing my step count data, I aim to understand my behavior and identify patterns in my physical activity.
 
-Some key questions I want to explore include:
+## Main Research Questions
+This project aims to answer the following questions:
 - What motivates me to walk more?
-- Which days / seasons am I more active?
+- Which days am I more active?
 - Is school the main driver of my activity levels?
 - How do my step counts differ between weekdays and weekends?
+- Are there specific months or seasons when I am more active?
 
 Through this analysis, I hope to gain insights into my lifestyle more.
 
